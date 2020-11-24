@@ -1,0 +1,13 @@
+body{
+	
+	background-image: url("aaa.jpg");
+}
+.menu{
+padding:70px;;
+}
+.sub-menu{
+	background:#fff;
+	width:400px;
+	padding:30px;
+	border-radius:10px;
+}
